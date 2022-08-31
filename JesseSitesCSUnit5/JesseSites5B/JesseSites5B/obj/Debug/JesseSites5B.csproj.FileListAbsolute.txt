@@ -1,0 +1,10 @@
+C:\Users\jesse\source\repos\JesseSites5B\JesseSites5B\bin\Debug\JesseSites5B.exe.config
+C:\Users\jesse\source\repos\JesseSites5B\JesseSites5B\bin\Debug\JesseSites5B.exe
+C:\Users\jesse\source\repos\JesseSites5B\JesseSites5B\bin\Debug\JesseSites5B.pdb
+C:\Users\jesse\source\repos\JesseSites5B\JesseSites5B\obj\Debug\JesseSites5B.csproj.AssemblyReference.cache
+C:\Users\jesse\source\repos\JesseSites5B\JesseSites5B\obj\Debug\JesseSites5B.frmMain.resources
+C:\Users\jesse\source\repos\JesseSites5B\JesseSites5B\obj\Debug\JesseSites5B.Properties.Resources.resources
+C:\Users\jesse\source\repos\JesseSites5B\JesseSites5B\obj\Debug\JesseSites5B.csproj.GenerateResource.cache
+C:\Users\jesse\source\repos\JesseSites5B\JesseSites5B\obj\Debug\JesseSites5B.csproj.CoreCompileInputs.cache
+C:\Users\jesse\source\repos\JesseSites5B\JesseSites5B\obj\Debug\JesseSites5B.exe
+C:\Users\jesse\source\repos\JesseSites5B\JesseSites5B\obj\Debug\JesseSites5B.pdb
