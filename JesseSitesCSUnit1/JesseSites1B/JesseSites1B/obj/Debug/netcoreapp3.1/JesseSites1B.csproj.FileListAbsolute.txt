@@ -1,0 +1,15 @@
+C:\Users\jesse\source\repos\JesseSites1B\JesseSites1B\bin\Debug\netcoreapp3.1\JesseSites1B.exe
+C:\Users\jesse\source\repos\JesseSites1B\JesseSites1B\bin\Debug\netcoreapp3.1\JesseSites1B.deps.json
+C:\Users\jesse\source\repos\JesseSites1B\JesseSites1B\bin\Debug\netcoreapp3.1\JesseSites1B.runtimeconfig.json
+C:\Users\jesse\source\repos\JesseSites1B\JesseSites1B\bin\Debug\netcoreapp3.1\JesseSites1B.runtimeconfig.dev.json
+C:\Users\jesse\source\repos\JesseSites1B\JesseSites1B\bin\Debug\netcoreapp3.1\JesseSites1B.dll
+C:\Users\jesse\source\repos\JesseSites1B\JesseSites1B\bin\Debug\netcoreapp3.1\JesseSites1B.pdb
+C:\Users\jesse\source\repos\JesseSites1B\JesseSites1B\obj\Debug\netcoreapp3.1\JesseSites1B.csprojAssemblyReference.cache
+C:\Users\jesse\source\repos\JesseSites1B\JesseSites1B\obj\Debug\netcoreapp3.1\JesseSites1B.frmMain.resources
+C:\Users\jesse\source\repos\JesseSites1B\JesseSites1B\obj\Debug\netcoreapp3.1\JesseSites1B.csproj.GenerateResource.cache
+C:\Users\jesse\source\repos\JesseSites1B\JesseSites1B\obj\Debug\netcoreapp3.1\JesseSites1B.AssemblyInfoInputs.cache
+C:\Users\jesse\source\repos\JesseSites1B\JesseSites1B\obj\Debug\netcoreapp3.1\JesseSites1B.AssemblyInfo.cs
+C:\Users\jesse\source\repos\JesseSites1B\JesseSites1B\obj\Debug\netcoreapp3.1\JesseSites1B.csproj.CoreCompileInputs.cache
+C:\Users\jesse\source\repos\JesseSites1B\JesseSites1B\obj\Debug\netcoreapp3.1\JesseSites1B.dll
+C:\Users\jesse\source\repos\JesseSites1B\JesseSites1B\obj\Debug\netcoreapp3.1\JesseSites1B.pdb
+C:\Users\jesse\source\repos\JesseSites1B\JesseSites1B\obj\Debug\netcoreapp3.1\JesseSites1B.genruntimeconfig.cache
